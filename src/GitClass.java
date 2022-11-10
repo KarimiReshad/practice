@@ -10,5 +10,12 @@ public class GitClass {
 		
 		
 	}
+	
+	public void test() {
+		System.out.println("this is for local repository");
+	}
+	
+	
+	
 
 }
